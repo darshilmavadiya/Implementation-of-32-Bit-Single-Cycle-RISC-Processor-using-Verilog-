@@ -1,0 +1,1 @@
+# Implementation-of-32-Bit-Single-Cycle-RISC-Processor-using-Verilog-
